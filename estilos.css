@@ -1,0 +1,33 @@
+/*estilo para todos los ejemplos 1*/
+fichero {background-color:#071418; font-family:sans-serif;}
+
+ficha {background-color:#DF7401; display:block;}
+
+nombre {color:white; font-size: 1.5em; display:inline;} 
+apellido{color:yellow; font-size: 1.5em;display:inline;}
+
+direccion {color:black; font-size: 1.5em;display:inline}
+
+telefono{ color:blue;font-size: 1.5em;display:inline}
+
+email{ color:black;font-size: 1.5em;display:inline}
+
+url{ color:blue;font-size: 1.5em;display:inline}
+
+dui{ color:black;font-size: 1.5em;display:inline}
+
+afp{ color:blue;font-size: 1.5em;display:inline}
+iss{ color:white;font-size: 1.5em;display:inline}
+/*Estilos para todos los ejemplos2*/
+
+pais{background-color:#071418; font-family:Arial, Helvetica, sans-serif;}
+departamento{background-color:#01df77; display:block;}
+cabecera{color:yellow; font-size: 1.5em;display:inline;}
+habitantes{color:black; font-size: 1.5em;display:inline}
+altura{color:rgb(216, 10, 10); font-size: 1.5em;display:inline}
+codigopostal{color:white;font-size: 1.5em;display:inline}
+idioma{background-color:#01df0c; display:block;}
+principal{color:yellow; font-size: 1.5em;display:inline;}
+secundario{color:yellow; font-size: 1.5em;display:inline;}
+municipios{color:white;font-size: 1.5em;display:inline}
+areaterritorial{color:rgb(69, 9, 209);font-size: 1.5em;display:inline}

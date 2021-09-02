@@ -1,0 +1,35 @@
+﻿{
+	"pais":{
+		"@nombre":"El salvador",
+		"@moneda":"dolar",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":" 1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2 ",
+				"@nombre":"Santa Ana",
+				"cabecera":"Santa Ana",
+				"habitantes":"631,100",
+				"altura":" 5000 MSNM",
+				"codigopostal":"10902",
+				"municipios":"13",
+				"areaterritorial":" 2,023 KM2"
+			},
+			{
+				"@id":"3 ",
+				"@nombre":"San Miguel",
+				"cabecera":"San Miguel",
+				"habitantes":"631,100",
+				"altura":" 5000 MSNM",
+				"codigopostal":"247,119",
+				"municipios":"20",
+				"areaterritorial":" 2,077 KM2"
+			}
+		]
+	}
+}

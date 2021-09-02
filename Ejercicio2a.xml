@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="estilos.css"?>
+<pais nombre="El salvador" moneda="dolar">
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes> 1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+
+<departamento id="2 " nombre="Santa Ana">
+<cabecera>Santa Ana</cabecera>
+<habitantes>631,100</habitantes>
+<altura> 5000 MSNM</altura>
+<codigopostal>10902</codigopostal>
+<areaterritorial> 2,023 KM2</areaterritorial>n
+<idioma>
+<principal>Español</principal>
+<secundario>Nahuatl</secundario>
+</idioma>
+</departamento>
+
+</pais>

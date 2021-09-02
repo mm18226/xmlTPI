@@ -1,0 +1,37 @@
+﻿{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":" Antonio",
+				"apellido":"Barbero",
+				"direccion":" Calle de los andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"1/9/2020",
+				"nombre":" Javier",
+				"apellido":"Martinez",
+				"direccion":" San marcos",
+				"telefono":"2270-0000",
+				"email":"tpi@ues.edu.sv",
+				"url":"www.javier.com"
+			},
+			{
+				"@id":"3",
+				"@fechaingreso":"1/9/2021",
+				"nombre":" Gilberto",
+				"apellido":"Zetino",
+				"direccion":" San Jacinto",
+				"telefono":"2270-0000",
+				"email":"tpi.gil@ues.edu.sv",
+				"url":"www.gilzx.com",
+				"dui":{
+					"@añovencimiento":"08/08/2024",
+					"#text":"01413854-9 "
+				},
+				"afp":"457454-0",
+				"iss":{
+					"@añovigencia":"12/12/2021",
+					"#text":" 4577214155"
+				}

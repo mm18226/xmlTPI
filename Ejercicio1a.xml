@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="estilos.css"?>
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre> Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion> Calle de los andes, 45</direccion>
+</ficha>
+
+<ficha id="2" fechaingreso="1/9/2020">
+<nombre> Javier</nombre>
+<apellido>Martinez</apellido>
+<direccion> San marcos</direccion>
+<telefono>2270-0000</telefono>
+<email>tpi@ues.edu.sv</email>
+<url>www.javier.com</url>
+</ficha>
+
+</fichero>
