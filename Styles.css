@@ -73,12 +73,11 @@ h2{
   .tercera{
     font-family:'Times New Roman', Times, serif; 
     font-size: 1.2em;
+     text-align: center;
    margin-left: 900px;
    margin-top: 150px;
    position:absolute; 
-   padding-right: 30px;
-   text-align: center;
-      color:aliceblue;
-
+   padding-right: 30px; 
+   color:aliceblue;
   }
 
